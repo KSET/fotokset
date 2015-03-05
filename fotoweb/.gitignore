@@ -4,7 +4,8 @@
 *.pot
 *.*~
 *.db
-fotoweb/fotoweb/settings/production.py
-fotoweb/fotoweb/settings/dev.py
-fotoweb/run/SECRET.py
+fotoweb/settings/production.py
+fotoweb/settings/dev.py
+run/SECRET.py
+run/*.sqlite3
 

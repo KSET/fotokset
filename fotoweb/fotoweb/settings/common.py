@@ -79,7 +79,7 @@ SECRET_FILE = normpath(join(PROJECT_ROOT, 'run', 'SECRET.key'))
 
 # These persons receive error notification
 ADMINS = (
-    ('your name', 'your_name@example.com'),
+    ('Morrigan', 'morrigan@kset.org'),
 )
 MANAGERS = ADMINS
 
@@ -109,8 +109,8 @@ TEMPLATE_DEBUG = DEBUG
 
 # ##### INTERNATIONALIZATION ##############################
 
-LANGUAGE_CODE = 'de'
-TIME_ZONE = 'Europe/Berlin'
+LANGUAGE_CODE = 'hr-hr'
+TIME_ZONE = 'Europe/Zagreb'
 
 # Internationalization
 USE_I18N = True

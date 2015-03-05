@@ -1,2 +1,10 @@
 # do NOT track Python compilation files
 *.py[cod]
+*.log
+*.pot
+*.*~
+*.db
+fotoweb/fotoweb/settings/production.py
+fotoweb/fotoweb/settings/dev.py
+fotoweb/run/SECRET.py
+
